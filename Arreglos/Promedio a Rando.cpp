@@ -1,5 +1,4 @@
 /* 
- * File:   Lista(Apartamento)
  * Author: Michael Daniel Murillo López  
  * Corporación Universitaria Minuto de Dios - UNIMINUTO 
  * NRC:7273

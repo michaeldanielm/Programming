@@ -1,10 +1,8 @@
-/**
- *
- * @author Michael Daniel Murillo López
- * Estrutura de Datos
- * ID:534830 Corporación
- * Universitaria Minuto de Dios - UNIMINUTO 
+/* 
+ * Author: Michael Daniel Murillo López  
+ * Corporación Universitaria Minuto de Dios - UNIMINUTO 
  * NRC:7273
+ *
  */
 /*
 Programa para generar un arreglo lleno con elementos aleatorios
