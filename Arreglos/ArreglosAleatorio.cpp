@@ -19,20 +19,20 @@ int main()
     srand(time(NULL));
     char otra='Y';
     int arraySize=0;
-    int myArray[100];
-    for(int i=0;i<100;i++)myArray[i]=MAX;
+    int Array[100];
+    for(int i=0;i<100;i++)Array[i]=MAX;
     while(otra=='Y'){
         cout<<"Ingrese el numero de elementos del arreglo(1-100): ";
         cin>>arraySize;
         if(arraySize>0){
             for(int i=0;i<arraySize;i++)
             {
-                myArray[i]=1+rand()%100;
+                Array[i]=1+rand()%100;
             }
             cout<<"Los elementos el arreglo son: \n\n";
             for(int i=0;i<arraySize;i++)
             {
-                cout<<myArray[i]<<"-";
+                cout<<Array[i]<<"-";
             }
 
         } else cout<<"Error, debe ser un entero positivo\n";
