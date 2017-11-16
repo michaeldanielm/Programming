@@ -1,13 +1,9 @@
 /* 
  * File:   Lista(Apartamento)
- * Author: Michael Daniel Murillo López 
- * Id: 534830
- * Estrutura de Datos
- * ID:534830 
+ * Author: Michael Daniel Murillo López  
  * Corporación Universitaria Minuto de Dios - UNIMINUTO 
  * NRC:7273
  *
- * Created on 8 de Octubre de 2017, 3:22 PM
  */
 #include <iostream> // liberia 
 #include <string>
